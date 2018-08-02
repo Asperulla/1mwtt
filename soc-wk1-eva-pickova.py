@@ -1,3 +1,5 @@
+##***day1***
+
 #Hours in a year. How many hours are in a year?
 print(365*24)
 #8760
@@ -14,3 +16,5 @@ print(34*365*24*60*60)
 #Andreea Visanoiu: I'm 48618000 seconds old hahaha. 
 #Calculate @Andreea Visanoiu's age.
 print(48618000/365/24/60/60)
+
+##***day3***
