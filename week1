@@ -1,2 +1,7 @@
 #Hours in a year. How many hours are in a year?
 print(365*24)
+
+#Minutes in a decade. How many minutes are in a decade?
+common_year = 365*24*60
+leap_year = 366*24*60
+print(8*common_year + 2*leap_year)
