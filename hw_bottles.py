@@ -1,7 +1,7 @@
 
 for bottle in range(0, 99):
 	print (str(99 - bottle) + " bottles of beer on the wall, " + str(99 - bottle) + " bottles of beer."
-		"Take one down and pass it around, " + str(99 - bottle - 1) + " bottles of beer on the wall."
+		" Take one down and pass it around, " + str(99 - bottle - 1) + " bottles of beer on the wall."
 		)
 	bottle = bottle - 1
 	
