@@ -26,3 +26,11 @@ first = input("Write your first name: ")
 middle = input("Write your middle name: ")
 last = input("Write your last name: ")
 print("Hello "+ " "+ first + " " + middle + " " + last + "!")
+
+#Bigger, better favorite number. 
+#Write a program that asks for a person’s favorite number. 
+#Have your program add 1 to the number, 
+#and then suggest the result as a bigger and better favorite number. 
+#(Do be tactful about it, though.)
+fav_number = input("Write your favorite number: ")
+print("Your favorite number is: " + fav_number + " but better number is "  + str(int(fav_number) + 1))
