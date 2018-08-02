@@ -10,3 +10,7 @@ print(8*common_year + 2*leap_year)
 
 #Your age in seconds. How many seconds old are you?
 print(34*365*24*60*60)
+
+#Andreea Visanoiu: I'm 48618000 seconds old hahaha. 
+#Calculate @Andreea Visanoiu's age.
+print(48618000/365/24/60/60)
