@@ -18,3 +18,11 @@ print(34*365*24*60*60)
 print(48618000/365/24/60/60)
 
 ##***day3***
+
+#Full name greeting. Write a program that asks for a person’s 
+# first name, then middle, and then last. Finally, 
+# it should greet the person using their full name.
+first = input("Write your first name: ")
+middle = input("Write your middle name: ")
+last = input("Write your last name: ")
+print("Hello "+ " "+ first + " " + middle + " " + last + "!")
