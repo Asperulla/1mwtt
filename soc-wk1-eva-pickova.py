@@ -41,4 +41,4 @@ print("Your favorite number is: " + fav_number + " but better number is "  + str
 #For example, 
 #if you type in I want a raise, it should yell back like this:
 boss = input("WHAT DO YOU WANT!? ")
-print("WHAT DO YOU MEAN!! " + boss + " You are fired!!")
+print("WHAT DO YOU MEAN!! " + boss.upper() + "?!?" + " You are fired!!")
