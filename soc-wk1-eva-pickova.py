@@ -34,6 +34,7 @@ print("Hello "+ " "+ first + " " + middle + " " + last + "!")
 #(Do be tactful about it, though.)
 fav_number = input("Write your favorite number: ")
 print("Your favorite number is: " + fav_number + " but better number is "  + str(int(fav_number) + 1))
+## pridat jeste type(), v pripade, kdy zada neco jineho nez cislo.
 
 #Angry boss. Write an angry boss program that 
 #rudely asks what you want. Whatever you answer, 
