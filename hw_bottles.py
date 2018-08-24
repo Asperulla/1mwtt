@@ -18,7 +18,7 @@ for bottle in range(0, 97):
 	
 print(
 	"2 bottles of beer on the wall, 2 bottles of beer.
-      Take one down and pass it around, 1 bottle of beer on the wall.
+	\n Take one down and pass it around, 1 bottle of beer on the wall.
       \n 1 bottle of beer on the wall, 1 bottle of beer. \n Take one down and pass it around, 
       \n no more bottles of beer on the wall. 
       \n No more bottles of beer on the wall, no more bottles of beer. 
